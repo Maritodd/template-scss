@@ -1,0 +1,8 @@
+@media (max-width: 1375px) {
+  .header-navbar {
+    grid-column: 2/4;
+    grid-row: 2/3;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
